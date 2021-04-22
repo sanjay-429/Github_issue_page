@@ -1,0 +1,19 @@
+
+button{
+    margin-left: 5px;
+    border: blue;
+    border-radius: 15px;
+}
+
+.buttons{
+  height: 37px;
+  border-radius: 5px;
+  border: solid 1px gray;
+  
+}
+.btnn{
+  margin-left: 20px;
+}
+#new-issue{
+  margin-left: 950px;
+}
